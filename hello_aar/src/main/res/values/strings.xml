@@ -1,0 +1,3 @@
+<resources>
+    <string name="hello_maven_template">%s AAR</string>
+</resources>

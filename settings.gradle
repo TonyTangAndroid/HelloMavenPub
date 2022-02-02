@@ -1,0 +1,4 @@
+rootProject.name = "HelloMaven"
+include ':app'
+include ':hello_aar'
+include ':hello_jar'
