@@ -1,11 +1,11 @@
 1, To publish the aar to the local maven repo, execute
 ```
-./gradlew :hello_aar:publishToMavenLocal
+./gradlew :hello_jar:install
 ```
 
 
 2, To publish the aar to the local maven repo with release flavor, execute
 ```
-./gradlew :hello_aar:publishReleasePublicationToMavenLocal
+./gradlew :hello_aar:install
 ```
 

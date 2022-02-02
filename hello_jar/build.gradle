@@ -1,6 +1,7 @@
 apply plugin: 'java-library'
 apply plugin: 'maven'
 group = POM_GROUP_ID
+version =  POM_VERSION
 
 dependencies {
     testImplementation 'junit:junit:4.13.2'
